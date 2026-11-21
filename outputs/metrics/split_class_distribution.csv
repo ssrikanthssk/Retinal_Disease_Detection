@@ -1,0 +1,9 @@
+Split,Class,Images,Percentage
+Train,CNV,27971,32.73
+Train,DME,9691,11.34
+Train,DRUSEN,6818,7.98
+Train,NORMAL,40967,47.94
+Validation,CNV,9234,40.39
+Validation,DME,1657,7.25
+Validation,DRUSEN,1798,7.86
+Validation,NORMAL,10173,44.5

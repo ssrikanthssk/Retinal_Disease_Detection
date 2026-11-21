@@ -1,0 +1,4 @@
+split,images,unique_identifiers
+train,86697,3828
+validation,21612,957
+test,1000,635

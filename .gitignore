@@ -1,0 +1,25 @@
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+
+data/raw/
+data/processed/
+
+
+.DS_Store
+sample_images/
+app_backup.py
+requirements_full_backup.txt
+.streamlit/secrets.toml
+*.arrow
+*.npz
+# Large generated analysis files
+outputs/metrics/image_metadata.csv
+outputs/predictions/
+
+# Local backups
+app_backup.py
+requirements_full_backup.txt
